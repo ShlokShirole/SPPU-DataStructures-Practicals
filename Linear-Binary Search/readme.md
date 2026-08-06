@@ -24,7 +24,6 @@ The program allows the user to:
 ## 🛠️ Technologies Used
 
 - **Language:** Python 3
-- **IDE:** Visual Studio Code / PyCharm / IDLE
 
 ---
 
