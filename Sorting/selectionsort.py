@@ -20,4 +20,5 @@ sum1=0
 for i in range(n-1,n-6,-1):
 	print(a[i])
 	sum1=sum1+a[i]
-print("Sum of top 5 Salaries:",a)
+print("Sum of top 5 Salaries:",sum1)
+		
