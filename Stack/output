@@ -1,0 +1,77 @@
+comp-lab@complab-desktop:~$ python3 ds4.py
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:H
+Current Status: H
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:e
+Current Status: He
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:l
+Current Status: Hel
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:l
+Current Status: Hell
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:k
+Current Status: Hellk
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:2
+Current Status: Hell
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:1
+Enter Character:o
+Current Status: Hello
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:2
+Current Status: Hell
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:3
+Current Status: Hello
+=====MENU====
+1.Add
+2.Undo
+3.Redo
+4.Exit
+Enter Your Choice:4
+Exited
