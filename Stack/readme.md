@@ -99,6 +99,7 @@ Terminates the program.
 
 # 💻 Sample Output
 
+```text
 =====MENU====
 1.Add
 2.Undo
@@ -175,6 +176,8 @@ Current Status: Hello
 4.Exit
 Enter Your Choice:4
 Exited
+
+```
 
 ---
 
