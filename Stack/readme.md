@@ -186,7 +186,7 @@ Exited
 ```text
 📦 Text-Editor-Using-Stack
 │
-├── TextEditor.py
+├── implement.py
 └── README.md
 ```
 
