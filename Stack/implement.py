@@ -9,8 +9,8 @@ while 1:
 	print("2.Undo")
 	print("3.Redo")
 	print("4.Exit")
-	m=int(input("Enter Your Choice:")) 
-	if m==1:  
+	m=int(input("Enter Your Choice:"))
+	if m==1:
 		ch=input("Enter Character:")
 		text=text+ch
 		a.append(ch)
@@ -28,7 +28,7 @@ while 1:
 		a.append(x)
 		text=text+x
 		print("Current Status",text)
-	
+
 	elif m==4:
 		print("Exited")
 		break
